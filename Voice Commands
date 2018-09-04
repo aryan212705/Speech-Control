@@ -82,3 +82,4 @@ Commands supported with the pair of keywords :
 77. open action menu : [action, menu]
 78. open terminal in documents folder : [terminal, documents]
 79. open file manager : [file, manager]
+80. exit dictation mode : [off, dictation], [stop, dictation], [dictation, off], [stop, voice, typing], [stop, typing]
