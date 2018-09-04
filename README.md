@@ -20,11 +20,11 @@ List of Dependencies:
 How to use?
 1. Download the zip file either directly or using git clone
 2. Extract the zip file in the desired folder
-3. To run the program:
-    i).   Open a terminal in the directory of extracted file.
-    ii).  Run the file speechcontrol.py using python3
+3. To run the program:<br/>
+    i).   Open a terminal in the directory of extracted file.<br/>
+    ii).  Run the file speechcontrol.py using python3.<br/>
     iii). Speak commands using some mic and it will execute the command accordingly.
-4. To add a new command:
-    i).   Open a terminal in the directory of extracted file.
-    ii).  Run the file add_commands.py using python3
-    iii). FOllow the procedure to add a new command.
+4. To add a new command:<br/>
+    i).   Open a terminal in the directory of extracted file.<br/>
+    ii).  Run the file add_commands.py using python3.<br/>
+    iii). Follow the procedure to add a new command.
